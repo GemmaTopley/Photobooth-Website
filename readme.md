@@ -1,0 +1,1 @@
+This program is to create a website that acts as a photobooth
